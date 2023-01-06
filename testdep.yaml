@@ -1,0 +1,29 @@
+apiVersion : apps/v1
+kind: Deployment
+metadata:
+  name: httpd-backend-ngnix
+  labels:
+    app: httpd-backend-nginx
+    type: backend
+spec:
+  replicas: 3
+  selector:
+      matchLabels:
+        name: Demo-Deploy-pod
+        type: backend
+  template:
+    metadata:
+      name: Demo-Deploy-pod
+      labels:
+        name: Demo-Deploy-pod
+        type: backend
+    spec:
+      containers:
+        - name: alpine-container
+          image: 
+          ports:
+            - containerPort: 80
+  
+      
+    
+

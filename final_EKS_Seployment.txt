@@ -1,0 +1,1000 @@
+ 1064  nano Dockerfile 
+ 1065  docker build -t finalasptry:v1 .
+ 1066  ls -a
+ 1067  la -al
+ 1068  nano Dockerfile 
+ 1069  docker build -t finalasptry:v1 .
+ 1070  nano Dockerfile 
+ 1071  docker build -t finalasptry:v1 .
+ 1072  nano Dockerfile 
+ 1073  docker rm $(docker ps --filter status=exited -q)
+ 1074  docker rmi
+ 1075  docker images
+ 1076  docker rmi d8b1538dfc59 064c99d1d581 93f389a455fb
+ 1077  docker build -t finalasptry:v1 .
+ 1078  docker rm $(docker ps --filter status=exited -q)
+ 1079  docker ps -a
+ 1080  docker images 
+ 1081  docker rmi  931d6f1cfd0e
+ 1082  nano Dockerfile 
+ 1083  docker build -t finalasptry:v1 .
+ 1084  docker rm $(docker ps --filter status=exited -q)
+ 1085  docker images
+ 1086  docker rmi ee3236e0713f  86709a41e243
+ 1087  nano Dockerfile 
+ 1088  docker build -t finalasptry:v1 .
+ 1089  nano Dockerfile 
+ 1090  docker rm $(docker ps --filter status=exited -q)1
+ 1091  docker rm $(docker ps --filter status=exited -q)
+ 1092  docker images
+ 1093  docker rmi 10d9f40c7801  c0b40c71b072
+ 1094  docker build -t finalasptry:v1 .
+ 1095  nano Dockerfile 
+ 1096  docker rm $(docker ps --filter status=exited -q)
+ 1097  docker images
+ 1098  docker rmi 1694c08e73d4
+ 1099  docker rmi ec45bb317d5a
+ 1100  docker run --rm -it -p 8010:80 -p 8011:443 -e ASPNETCORE_URLS="https://+;http://+" -e ASPNETCORE_HTTPS_PORT=8011 -e ASPNETCORE_Kestrel__Certificates__Default__Password="g3t0u3@123" -e ASPNETCORE_Kestrel__Certificates__Default__Path=/https/aspnetapp.pfx -v ${HOME}/.aspnet/https:/https/ 86917a464b7c
+ 1101  ld
+ 1102  ls
+ 1103  docker images
+ 1104  cd ../../../
+ 1105  cd ..
+ 1106  cd karthik/
+ 1107  ls
+ 1108  cd get getone/
+ 1109  cd getone/
+ 1110  ls
+ 1111  nano Dockerfile 
+ 1112  docker build -t worldcup:final .
+ 1113  ls
+ 1114  cd service/
+ 1115  ls
+ 1116  mkdir FinalSuccess
+ 1117  mv -f Dockerfile FinalSuccess/
+ 1118  ld
+ 1119  ls
+ 1120  ls FinalSuccess/
+ 1121  cp -r ../Dockerfile .
+ 1122  ls
+ 1123  docker build -t worldcup:final .
+ 1124  docker images
+ 1125  docker rmi e12af9c9f207
+ 1126  docker ps -a
+ 1127  docker rm $(docker ps --filter status=exited -q)
+ 1128  docker rmi e12af9c9f207
+ 1129  docker rmi 0477c3c79e11
+ 1130  docker rmi 16537d63777c 91abcd8d7e74 91abcd8d7e74 304a181573ab
+ 1131  docker build -t worldcup:final .
+ 1132  docker ps -a
+ 1133  docker rm dead33fa1a16
+ 1134  docker images
+ 1135  docker rmi b86cc5a2bb7a
+ 1136  docker rmi 399849424e49
+ 1137  docker rmi 91abcd8d7e74
+ 1138  docker rmi --help
+ 1139  docker rmi -f 91abcd8d7e74
+ 1140  docker images
+ 1141  docker rmi 767f39b5c1f6
+ 1142  docker build -t worldcup:final .
+ 1143  nano Dockerfile 
+ 1144  docker images
+ 1145  docker ps 
+ 1146  docker images
+ 1147  nano Dockerfile 
+ 1148  docker build -t worldcup:final .
+ 1149  docker rmi 53112f060c74
+ 1150  docker rmi a3a54ba9f84c
+ 1151  cls
+ 1152  clear
+ 1153  docker images
+ 1154  docker rmi b0144685bcb3
+ 1155  docker rmi -f  b0144685bcb3
+ 1156  ls
+ 1157  docker images
+ 1158  docker rmi 86917a464b7c
+ 1159  cls
+ 1160  clear
+ 1161  ls
+ 1162  docker build -t worldcup:final .
+ 1163  cd ..
+ 1164  ls
+ 1165  cd ..
+ 1166  ls
+ 1167  cd bhanu/
+ 1168  ls
+ 1169  cd ..
+ 1170  ls -alh
+ 1171  pid
+ 1172  df -a
+ 1173  pf
+ 1174  ps
+ 1175  top
+ 1176  cd /dev/root 
+ 1177  ls 
+ 1178  ls -al
+ 1179  docker build -t worldcup:final .
+ 1180  docker images
+ 1181  docker rmi 9a081633efc3
+ 1182  docker rmi -f 9a081633efc3
+ 1183  cd karthik/getone/service/
+ 1184  ls
+ 1185  history 
+ 1186  cat apphost 
+ 1187  cat /proc/meminfo
+ 1188  free
+ 1189  top
+ 1190  docker build -t worldcup:final .
+ 1191  docker images
+ 1192  docker rmi 
+ 1193  docker rmi bdd056c01de5
+ 1194  ls
+ 1195  cd /home/ubuntu/
+ 1196  ls
+ 1197  cd karthik/
+ 1198  ls
+ 1199  cd getone/
+ 1200  ls
+ 1201  cd service/
+ 1202  ls
+ 1203  cat Dockerfile 
+ 1204  rm -rf Dockerfile 
+ 1205  ls
+ 1206  cp FinalSuccess/Dockerfile .
+ 1207  ls
+ 1208  docker build -t secondtest:v1 .
+ 1209  history
+ 1210  history | grep "without"
+ 1211  history | grep "withoutasp1"
+ 1212  df
+ 1213  df -h
+ 1214  aws ec2 describe-instance-types --instance-type instance_type --query "InstanceTypes[].Hypervisor"
+ 1215  sudo lsblk
+ 1216  sudo growpart /dev/nvme0n1 1
+ 1217  sudo lsblk
+ 1218  xit
+ 1219  exit
+ 1220  df -h
+ 1221  df -hT
+ 1222  sudo resize2fs /dev/nvme0n1p1
+ 1223  df -hT
+ 1224  clear
+ 1225  ls
+ 1226  scd /home/ubuntu/
+ 1227  cd /home/ubuntu/
+ 1228  ls
+ 1229  cd karthik/
+ 1230  ls
+ 1231  cd getone/
+ 1232  ls
+ 1233  cat Dockerfile 
+ 1234  docker images
+ 1235  docker rmi -f d7ac69898e15
+ 1236  docker build -t Saveus:god .
+ 1237  docker build -t saveus:god .
+ 1238  docker images
+ 1239  docker run --rm -it -p 8010:80 -p 8011:443 -e ASPNETCORE_URLS="https://+;http://+" -e ASPNETCORE_HTTPS_PORT=8011 -e ASPNETCORE_Kestrel__Certificates__Default__Password="g3t0u3@123" -e ASPNETCORE_Kestrel__Certificates__Default__Path=/https/aspnetapp.pfx -v ${HOME}/.aspnet/https:/https/ 998b787dd28b
+ 1240  clear
+ 1241  nano Dockerfile 
+ 1242  docker run --rm -it -p 8016:7247 -p 8010:80 -p 8011:443 -e ASPNETCORE_URLS="https://+;http://+" -e ASPNETCORE_HTTPS_PORT=8011 -e ASPNETCORE_Kestrel__Certificates__Default__Password="g3t0u3@123" -e ASPNETCORE_Kestrel__Certificates__Default__Path=/https/aspnetapp.pfx -v ${HOME}/.aspnet/https:/https/ 998b787dd28b
+ 1243  docker run --rm -it -p 8013:7247 -p 8010:80 -p 8011:443 -e ASPNETCORE_URLS="https://+;http://+" -e ASPNETCORE_HTTPS_PORT=8011 -e ASPNETCORE_Kestrel__Certificates__Default__Password="g3t0u3@123" -e ASPNETCORE_Kestrel__Certificates__Default__Path=/https/aspnetapp.pfx -v ${HOME}/.aspnet/https:/https/ 998b787dd28b
+ 1244  docker ps -a
+ 1245  docker ps
+ 1246  clear
+ 1247  ls
+ 1248  cat Dockerfile 
+ 1249  docker images
+ 1250  docker ps
+ 1251  hstory
+ 1252  history
+ 1253  docker run --rm -it -p 8021:7247 -p 8022:80 -p 8023:443 -e ASPNETCORE_URLS="https://+;http://+" -e ASPNETCORE_HTTPS_PORT=8023 -e ASPNETCORE_Kestrel__Certificates__Default__Password="g3t0u3@123" -e ASPNETCORE_Kestrel__Certificates__Default__Path=/https/aspnetapp.pfx -v ${HOME}/.aspnet/https:/https/ 796272046094.dkr.ecr.eu-west-3.amazonaws.com/getonepageimage:latest
+ 1254  ls
+ 1255  cd karthik/
+ 1256  ls
+ 1257  cd getone/
+ 1258  ls
+ 1259  cd service
+ 1260  ls
+ 1261  clear
+ 1262  ls
+ 1263  ls aws-test
+ 1264  nano Dockerfile 
+ 1265  docker images
+ 1266  docker ps
+ 1267  docker ps -a
+ 1268  apt update
+ 1269  apt upgrade
+ 1270  apt install nginx
+ 1271  exit
+ 1272  kubectl
+ 1273  { sudo apt-get update; sudo apt-get install -y apt-transport-https ca-certificates curl; sudo curl -fsSLo /usr/share/keyrings/kubernetes-archive-keyring.gpg https://packages.cloud.google.com/apt/doc/apt-key.gpg; echo "deb [signed-by=/usr/share/keyrings/kubernetes-archive-keyring.gpg] https://apt.kubernetes.io/ kubernetes-xenial main" | sudo tee /etc/apt/sources.list.d/kubernetes.list; sudo apt-get update; sudo apt-get install -y kubectl=1.20.1-00; }
+ 1274  kubect;
+ 1275  kubectl
+ 1276  clear
+ 1277  aws elb describe-load-balancers
+ 1278  aws confiure
+ 1279  aws configure
+ 1280  aws elb describe-load-balancers --load-balancer-names
+ 1281  aws s3 ls
+ 1282  clear
+ 1283  aws eks --region us-east-2 update-kubeconfig --name EKS_cluster
+ 1284  aws configure
+ 1285  aws eks --region eu-west-3 update-kubeconfig --name EKS_cluster
+ 1286  kubectl get nodes
+ 1287  wget https://raw.githubusercontent.com/kubernetes/ingress-nginx/main/deploy/static/provider/aws/deploy.yaml
+ 1288  ls
+ 1289  sed  -i 's/externalTrafficPolicy: Local/externalTrafficPolicy: Cluster/g' deploy.yaml
+ 1290  kubectl get all
+ 1291  clear
+ 1292  ls
+ 1293  kubectl apply -f deploy.yaml 
+ 1294  kubectl get all
+ 1295  kubectl get ns
+ 1296  kubectl get all -n ingress-nginx  
+ 1297  kubectl get all
+ 1298  ls
+ 1299  kubectl create -f deploy.yaml 
+ 1300  aws eks --region eu-west-3 update-kubeconfig --name EKS_cluster
+ 1301  kubectl create -f deploy.yaml 
+ 1302  clear
+ 1303  kubcetl get ns
+ 1304  kubectl get ns
+ 1305  clear
+ 1306  kubectl get ns
+ 1307  kubectl get all -n ingress-nginx
+ 1308  kubectl describe pod/ingress-nginx-admission-create-4b2q9 -n ingress-nginx
+ 1309  kubectl get all -n ingress-nginx
+ 1310  kubectl edit pod/ingress-nginx-controller-7d5fb757db-j2j4x  -n ingress-nginx
+ 1311  clear
+ 1312  kubectl create deployment nginx-web --image=nginx --replicas=2
+ 1313  kubectl get all
+ 1314  kubectl get svc
+ 1315  kubectl get all -n ingress-nginx
+ 1316  kubectl edit svc nginx-web
+ 1317  kubectl edit nginx-web
+ 1318  kubectl edit svc nginx-web
+ 1319  kubectl get svc
+ 1320  vi samptets.yml
+ 1321  kubectl get svc
+ 1322  vi samptets.yml
+ 1323  vi secrets.yml
+ 1324  kubectl create -f secrets.yml 
+ 1325  kubectl get secrets
+ 1326  kubectl create -f samptets.yml 
+ 1327  vi samptets.yml
+ 1328  kubectl create -f samptets.yml 
+ 1329  vi samptets.yml
+ 1330  kubectl create -f samptets.yml 
+ 1331  ls
+ 1332  ls -l
+ 1333  ls -al
+ 1334  cd .kube/
+ 1335  ls
+ 1336  cat config 
+ 1337  cat config cd ..
+ 1338  cd ..
+ 1339  ls
+ 1340  vi samptets.yml 
+ 1341  kubectl create -f samptets.yml 
+ 1342  vi samptets.yml 
+ 1343  kubectl create -f samptets.yml 
+ 1344  kubectl get ingress
+ 1345  kubectl get all -n ingress-nginx
+ 1346  kubectl get all
+ 1347  kubeclt get ingress
+ 1348  kubectl get ingress
+ 1349  ls
+ 1350  mv samptets.yml ingress.yml
+ 1351  vi ingress.yml 
+ 1352  kubectl apply -f ingress.yml 
+ 1353  vi ingress.yml 
+ 1354  kubectl get all
+ 1355  kubectl edit service/nginx-web
+ 1356  kubectl get all
+ 1357  kubectl edit service/nginx-web
+ 1358  kubectl get all
+ 1359  kubectl describe minimal-ingress
+ 1360  kubectl get ingres
+ 1361  kubectl get ingress
+ 1362  kubectl describe minimal-ingress
+ 1363  kubectl describe ingress minimal-ingress
+ 1364  kubectl describe minimal-ingress
+ 1365  vi ingress.yml 
+ 1366  cp ingress.yml ingress_Final.yml 
+ 1367  vi ingress_Final.yml 
+ 1368  kubectl apply -f ingress_Final.yml 
+ 1369  kubectl get all
+ 1370  vi ingress_Final.yml 
+ 1371  kubetl get all
+ 1372  kubectl get ingress
+ 1373  kubectl delete -f ingress_Final.yml 
+ 1374  kubectl apply -f ingress_Final.yml 
+ 1375  kubectl edit service/nginx-web
+ 1376  kubetl get all
+ 1377  kubectl get all
+ 1378  aws eks --region eu-west-3 update-kubeconfig --name EKS_cluster
+ 1379  kubectl get all
+ 1380  kubectl delete -f ingress_Final.yml 
+ 1381  vi ingress_Final.yml 
+ 1382  kubectl get ns
+ 1383  kubectl get all ingress-nginx
+ 1384  kubectl get all -n  ingress-nginx
+ 1385  kubectl describe service/ingress-nginx-controller  -n ingress-nginx
+ 1386  vi ingress_Final.yml 
+ 1387  kubectl create -f ingress_Final.yml 
+ 1388  kubectl delete -f ingress_Final.yml 
+ 1389  vi ingress_Final.yml 
+ 1390  kubectl create -f ingress_Final.yml 
+ 1391  vi ingress_Final.yml 
+ 1392  kubectl get ingress
+ 1393  kubectl get all
+ 1394  kubectl edit service/nginx-web
+ 1395  kubectl get all
+ 1396  kubectl get svc
+ 1397  kubectl get svc -n ingress-nginx
+ 1398  ls
+ 1399  kubectl create -f deploy.yaml -n ingress-nginx
+ 1400  ls
+ 1401  kubectl get all
+ 1402  histroy | grep "create"
+ 1403  history | grep "create"
+ 1404  kubectl create deployment nginx-web --image=nginx --replicas=2 -n ingress-nginx
+ 1405  kubectl create -f ingress_Final.yml -n ingress-nginx
+ 1406  vi ingress_Final.yml 
+ 1407  kubectl create -f ingress_Final.yml -n ingress-nginx
+ 1408  clear
+ 1409  kubectl get all -n ingress-nginx
+ 1410  kubectl get all
+ 1411  history | grep "create"
+ 1412  history
+ 1413  kubectl get all -n ingress-nginx
+ 1414  kubectl edit deployment.apps/nginx-web
+ 1415  history | grep "expose"
+ 1416  kubectl get all
+ 1417  kubectl edit service/nginx-web
+ 1418  vi srvc.yml
+ 1419  replkubectl create -f  srvc.yml
+ 1420  vi srvc.yml
+ 1421  clear
+ 1422  kubectl get all
+ 1423  kubectl get all -n ingress-nginx
+ 1424  kubectl delete deployment nginx-web
+ 1425  kubectl get all
+ 1426  history
+ 1427  vi srvc.yml 
+ 1428  kubectl create -f srvc.yml -n ingress-nginx
+ 1429  kubectl delete ingress
+ 1430  kubectl get ingress
+ 1431  kubectl delete ingress minimal-ingress
+ 1432  kubectl get all -n ingress-nginx
+ 1433  clear
+ 1434  kubectl descirbe ingress minimal-ingress
+ 1435  kubectl describe ingress minimal-ingress
+ 1436  kubectl get ingress
+ 1437  kubectl get ingress -n ingress-nginx
+ 1438  kubectl describe ingress minimal-ingress -n ingress-nginx
+ 1439  kubectl edit ingress minimal-ingress -n ingress-nginx
+ 1440  kubectl get all -n ingress-nginx
+ 1441  kubectl edit service/nginx-web -n ingress-nginx
+ 1442  kubectl get all -n ingress-nginx
+ 1443  clear
+ 1444  kubectl
+ 1445  ls
+ 1446  aws configure
+ 1447  sudo su -
+ 1448  ls
+ 1449  kubectl 
+ 1450  aws eks --region eu-west-3 update-kubeconfig --name EKS_cluster
+ 1451  kubectl get pods
+ 1452  kubectl get ingress
+ 1453  kubectl get all
+ 1454  kubectl edit ingress minimal-ingress 
+ 1455  kubectl get ns
+ 1456  kubectl get pods ingress-nginx
+ 1457  kubectl get all -n ingress-nginx
+ 1458  kubectl edit svc ingress-nginx-controller -n ingress-nginx
+ 1459  kubectl edit deploy ingress-nginx-controller -n ingress-ngin
+ 1460  kubectl edit deploy ingress-nginx-controller -n ingress-nginx
+ 1461  kubectl get ingress
+ 1462  kubectl edit ingress minimal-ingress 
+ 1463  
+ 1464  kubectl edit ingress minimal-ingress 
+ 1465  kubectl get ingress
+ 1466  kubectl get svc
+ 1467  kubectl get pods
+ 1468  kubectl exec -it nginx-web-5855c9859f-lxgl2  sh
+ 1469  kubectl exec -it nginx-web-5855c9859f-lxgl2  /bin/bash
+ 1470  kubectl get svc
+ 1471  kubectl exec -it nginx-web-5855c9859f-lxgl2  /bin/bash
+ 1472  ls
+ 1473  kubectl get  ingress
+ 1474  kubectl get svc
+ 1475  nginx-web.default.svc.cluster.local
+ 1476  kubectl edit ingress minimal-ingress
+ 1477  kubectl get svc
+ 1478  curl nginx-web
+ 1479  kubectl get ingress
+ 1480  kubectl create ns karthik
+ 1481  kubectl get ns
+ 1482  ls
+ 1483  cd karthik/
+ 1484  ls
+ 1485  cd ..
+ 1486  ls
+ 1487  mkdir ingress
+ 1488  cd ingress/
+ 1489  nano ingress.yaml
+ 1490  wget https://raw.githubusercontent.com/kubernetes/ingress-nginx/main/deploy/static/provider/aws/deploy.yaml
+ 1491  nano deploy.yaml 
+ 1492  ls
+ 1493  kubectl get all -n ingress-nginx
+ 1494  kubectl get pods
+ 1495  kubectl edit pods apple-app
+ 1496  kubectl get pods ingress-nginx
+ 1497  kubectl get all -n ingress-nginx
+ 1498  kubectl get ns
+ 1499  kubectl get all -n ingress-nginx12
+ 1500  clear
+ 1501  kubectl apply -f https://raw.githubusercontent.com/kubernetes/ingress-nginx/controller-0.32.0/deploy/static/provider/aws/deploy.yaml
+ 1502  clear
+ 1503  kubectl delete -f deploy.yaml 
+ 1504  kubectl get all -n ingress-nginx
+ 1505  kubectl delete -f deploy.yaml 
+ 1506  kubectl get ns
+ 1507  kubectl delete ns ingress-nginx
+ 1508  sudo su -
+ 1509  clear
+ 1510  ls
+ 1511  sudo su -
+ 1512  ls
+ 1513  kubectl get all -n ingres-nginx
+ 1514  kubectl get ns
+ 1515  vi deploy.yaml 
+ 1516  nano deploy.yaml 
+ 1517  mv deploy.yaml deploy123.yaml 
+ 1518  wget https://raw.githubusercontent.com/kubernetes/ingress-nginx/controller-0.32.0/deploy/static/provider/aws/deploy.yaml
+ 1519  ls
+ 1520  nano deploy
+ 1521  nano deploy.yaml 
+ 1522  kubectl create -f deploy.yaml 
+ 1523  kubectl get ns
+ 1524  ls
+ 1525  history | grep "replica"
+ 1526  history | grep "deployment"
+ 1527  history 
+ 1528  kubectl apply -f https://raw.githubusercontent.com/cornellanthony/nlb-nginxIngress-eks/master/apple.yaml
+ 1529  kubectl get all
+ 1530  kubectl apply -f https://raw.githubusercontent.com/cornellanthony/nlb-nginxIngress-eks/master/banana.yaml
+ 1531  kubectl get ns
+ 1532  kubectl get all -n ingress-nginx
+ 1533  kubectl delete service/ingress-nginx-controller -n ingress-nginx
+ 1534  kubectl get ingress -n ingress-nginx
+ 1535  kubectl get all -n ingress-nginx
+ 1536  vi appbaningress.yml
+ 1537  vi appbaningress.yml 
+ 1538  kubectl create -f appbaningress.yml -n ingress-nginx12
+ 1539  kubectl get all -n ingress-nginx12
+ 1540  kubectl get all -n ingress-nginx
+ 1541  kubectl delete service/ingress-nginx-controller -n ingress-nginx
+ 1542  kubectl get all -n ingress-nginx12
+ 1543  kubectl describe deployment.apps/ingress-nginx-controller -n ingress-nginx12
+ 1544  kubectl get all -n ingress-nginx12
+ 1545  kubectl get all -n ingress-nginx
+ 1546  kubectl delete service/ingress-nginx-controller -n ingress-nginx
+ 1547  sudo su -
+ 1548  kubectl delete -f deploy.yaml 
+ 1549  kubectl get all -n ingress-nginx12
+ 1550  kubectl get ns
+ 1551  kubectl get all -n ingress-nginx12
+ 1552  kubectl get ns
+ 1553  kubectl delete ns ingress-nginx --grace-period=0 --force
+ 1554  cd /home/
+ 1555  ls
+ 1556  cd ubuntu/
+ 1557  ls
+ 1558  cd ~
+ 1559  ls
+ 1560  mkdir final_files
+ 1561  mv ingress_Final.yml final_files/
+ 1562  ls
+ 1563  cd final_files/
+ 1564  ls
+ 1565  wget kubernetes
+ 1566  wget https://raw.githubusercontent.com/kubernetes/ingress-nginx/controller-v1.5.1/deploy/static/provider/aws/deploy.yaml
+ 1567  ls
+ 1568  vi testdep.yaml
+ 1569  clear
+ 1570  aws ecr get-login-password --region eu-west-3 | docker login --username AWS --password-stdin 796272046094.dkr.ecr.eu-west-3.amazonaws.com
+ 1571  kubectl create secret docker-registry regcred   --docker-server= 796272046094.dkr.ecr.eu-west-3.amazonaws.com   --docker-username=AWS   --docker-password=$(aws ecr get-login-password)   --namespace=health-check
+ 1572  aws configure set region eu-west-3
+ 1573  cat ~/.aws/config 
+ 1574  aws ecr get-login-password
+ 1575  kubectl create secret docker-registry regcred   --docker-server= 796272046094.dkr.ecr.eu-west-3.amazonaws.com   --docker-username=AWS   --docker-password=$(aws ecr get-login-password)   --namespace=health-check
+ 1576  kubectl create secret docker-registry regcred   --docker-server= 796272046094.dkr.ecr.eu-west-3.amazonaws.com   --docker-username=AWS   --docker-password=$(aws ecr get-login-password) 
+ 1577  kubectl create secret docker-registry regcred   --docker-server= 796272046094.dkr.ecr.eu-west-3.amazonaws.com   --docker-username=AWS   --docker-password=$(aws ecr get-login-password)
+ 1578  kubectl create secret docker-registry --docker-server= 796272046094.dkr.ecr.eu-west-3.amazonaws.com   --docker-username=AWS   --docker-password=$(aws ecr get-login-password)
+ 1579  docker
+ 1580  kubectl create secret docker-registry --docker-server= 796272046094.dkr.ecr.eu-west-3.amazonaws.com   --docker-username=AWS   --docker-password=$(aws ecr get-login-password)
+ 1581  kubectl create secret docker-registry --docker-server=796272046094.dkr.ecr.eu-west-3.amazonaws.com   --docker-username=AWS   --docker-password=$(aws ecr get-login-password)
+ 1582  docker-registry
+ 1583  kubectl create secret regcred --docker-server=796272046094.dkr.ecr.eu-west-3.amazonaws.com   --docker-username=AWS   --docker-password=$(aws ecr get-login-password)
+ 1584  nano ecrscrpt.sh
+ 1585  sh ecrscrpt.sh 
+ 1586  ls
+ 1587  nano firstdep.yml
+ 1588  kubectl get secrest
+ 1589  kubectl get secrets
+ 1590  nano firstdep.yml
+ 1591  nano ingress_Final.yml 
+ 1592  nano firstdep.yml
+ 1593  kubectl edit ingress minimal-ingress
+ 1594  cd..
+ 1595  cd ..
+ 1596  cd /home/ubuntu
+ 1597  ls
+ 1598  cd karthik/
+ 1599  ls
+ 1600  cd getone/
+ 1601  ls
+ 1602  cd service/
+ 1603  ls
+ 1604  cd aws-test/
+ 1605  ls
+ 1606  cd ~
+ 1607  ls
+ 1608  cd final_files/
+ 1609  ls
+ 1610  openssl ecparam -out contoso.key -name prime256v1 -genkey
+ 1611  openssl req -new -sha256 -key contoso.key -out contoso.csr
+ 1612  openssl x509 -req -sha256 -days 365 -in contoso.csr -signkey contoso.key -out contoso.crt
+ 1613  ls
+ 1614  kubectl create secret tls tls-secret --key  contoso.key  --cert contoso.crt 
+ 1615  clear
+ 1616  kubectl get secret
+ 1617  ls
+ 1618  nano firstdep.yml 
+ 1619  nano ingress_Final.yml 
+ 1620  kubectl create -f firstdep.yml 
+ 1621  nano firstdep.yml 
+ 1622  kubectl create -f firstdep.yml 
+ 1623  kubectl get al
+ 1624  kubectl describe pod/node-hello-world-deployment-75dcd5cdf-6jggd 
+ 1625  kubectl logs pod/node-hello-world-deployment-75dcd5cdf-6jggd 
+ 1626  nano firstdep.yml 
+ 1627  cd /home/ubuntu/
+ 1628  ls
+ 1629  cd karthik/
+ 1630  ls
+ 1631  cd sourcecode/
+ 1632  ls
+ 1633  cd service/
+ 1634  ls
+ 1635  cd aws
+ 1636  cd ..
+ 1637  cd aws-test/
+ 1638  ls
+ 1639  cd ..
+ 1640  ls
+ 1641  cd /home/
+ 1642  ls -al
+ 1643  cd ..
+ 1644  ls
+ 1645  ls -al
+ 1646  cat certs 
+ 1647  cd ~
+ 1648  ls -al
+ 1649  ls
+ 1650  cd final_files/
+ 1651  cp -r ../.aspnet/https/aspnetapp.pfx .
+ 1652  ls
+ 1653  kubectl get all
+ 1654  kubectl exec -it -p 8030:7247 -p 8031:80 -p 8032:443 -e ASPNETCORE_URLS="https://+;http://+" -e ASPNETCORE_HTTPS_PORT=8032 -e ASPNETCORE_Kestrel__Certificates__Default__Password="g3t0u3@123" -e ASPNETCORE_Kestrel__Certificates__Default__Path=/https/aspnetapp.pfx -v ${HOME}/.aspnet/https:/https/ pod/node-hello-world-deployment-75dcd5cdf-6jggd
+ 1655  kubectl exec -it pod/node-hello-world-deployment-75dcd5cdf-6jggd
+ 1656  kubectl exec -it pod/node-hello-world-deployment-75dcd5cdf-6jggd /bin/bash
+ 1657  clear
+ 1658  vi firstdep.yml 
+ 1659  cat aspnetapp.pfx 
+ 1660  vi firstdep.yml 
+ 1661  kubectl get all
+ 1662  kubectl delete -f deployment.apps/node-hello-world-deployment 
+ 1663  kubectl delete deployment.apps/node-hello-world-deployment 
+ 1664  kubectl get all
+ 1665  kubectl create -f firstdep.yml 
+ 1666  kubectl apply -f firstdep.yml 
+ 1667  kubectl get all
+ 1668  kubectl describe pod/node-hello-world-deployment-645d75cb84-7qzwt
+ 1669  kubectl logs node-hello-world-app-container
+ 1670  kubectl logs pod/node-hello-world-deployment-645d75cb84-7qzwt
+ 1671  sudo su -
+ 1672  sudo su
+ 1673  clear
+ 1674  ls
+ 1675  mv deploy.yaml dddd.yaml
+ 1676  kubectl apply -f https://raw.githubusercontent.com/kubernetes/ingress-nginx/controller-0.32.0/deploy/static/provider/aws/deploy.yaml
+ 1677  aws eks --region eu-west-3 update-kubeconfig --name EKS_cluster
+ 1678  clear
+ 1679  kubectl apply -f https://raw.githubusercontent.com/kubernetes/ingress-nginx/controller-0.32.0/deploy/static/provider/aws/deploy.yaml
+ 1680  vi deploy123.yaml 
+ 1681  kubectl get ns
+ 1682  kubectl get all -n ingress-nginx
+ 1683  kubectl delete -f https://raw.githubusercontent.com/kubernetes/ingress-nginx/controller-0.32.0/deploy/static/provider/aws/deploy.yaml
+ 1684  kubectl get ns
+ 1685  kubectl get all -n ingress-nginx
+ 1686  kubectl get ns
+ 1687  wget https://raw.githubusercontent.com/kubernetes/ingress-nginx/controller-0.32.0/deploy/static/provider/aws/deploy.yaml
+ 1688  ls
+ 1689  cat deploy
+ 1690  cat deploy.yaml 
+ 1691  clear
+ 1692  mkdir albingress
+ 1693  cd albingress/
+ 1694  curl -sS "https://raw.githubusercontent.com/kubernetes-sigs/aws-alb-ingress-controller/v1.1.4/docs/examples/alb-ingress-controller.yaml"  | sed "s/# - --cluster-name=devCluster/- --cluster-name=attractive-gopher/g" 
+ 1695  ls
+ 1696  curl -sS "https://raw.githubusercontent.com/kubernetes-sigs/aws-alb-ingress-controller/v1.1.4/docs/examples/alb-ingress-controller.yaml"      | sed "s/# - --cluster-name=devCluster/- --cluster-name=attractive-gopher/g"      | kubectl apply -f -
+ 1697  kubectl get ns
+ 1698  kubectl get all
+ 1699  kubectl get all -n kube-system
+ 1700  kubectl logs -n kube-system $(kubectl get po -n kube-system | egrep -o alb-ingress[a-zA-Z0-9-]+)
+ 1701  kubectl logs  $(kubectl get po -n kube-system | egrep -o alb-ingress[a-zA-Z0-9-]+) -n kube-system
+ 1702  egrep
+ 1703  kubectl logs  $(kubectl get po -n kube-system | grep -o alb-ingress[a-zA-Z0-9-]+) -n kube-system
+ 1704  kubectl apply -f https://raw.githubusercontent.com/kubernetes-sigs/aws-alb-ingress-controller/v1.1.4/docs/examples/2048/2048-namespace.yaml
+ 1705  kubectl apply -f https://raw.githubusercontent.com/kubernetes-sigs/aws-alb-ingress-controller/v1.1.4/docs/examples/2048/2048-deployment.yaml
+ 1706  kubectl apply -f https://raw.githubusercontent.com/kubernetes-sigs/aws-alb-ingress-controller/v1.1.4/docs/examples/2048/2048-service.yaml
+ 1707  kubectl apply -f https://raw.githubusercontent.com/kubernetes-sigs/aws-alb-ingress-controller/v1.1.4/docs/examples/2048/2048-ingress.yaml
+ 1708  ls
+ 1709  wget  https://raw.githubusercontent.com/kubernetes-sigs/aws-alb-ingress-controller/v1.1.4/docs/examples/2048/2048-ingress.yaml
+ 1710  ls
+ 1711  nano 2048-ingress.yaml 
+ 1712  kubectl create -f 2048-ingress.yaml 
+ 1713  cd ..
+ 1714  ls
+ 1715  cat ingress
+ 1716  cat ingress.yml 
+ 1717  cat albingress/2048-ingress.yaml 
+ 1718  nano  albingress/2048-ingress.yaml 
+ 1719  cd albingress/
+ 1720  kubectl create -f 2048-ingress.yaml 
+ 1721  cat 2048-ingress.yaml 
+ 1722  nano  albingress/2048-ingress.yaml 
+ 1723  nano 2048-ingress.yaml 
+ 1724  cat ../ingress.yml 
+ 1725  nano 2048-ingress.yaml 
+ 1726  kubectl create -f 2048-ingress.yaml 
+ 1727  nano 2048-ingress.yaml 
+ 1728  kubectl create -f 2048-ingress.yaml 
+ 1729  nano 2048-ingress.yaml 
+ 1730  kubectl get ns
+ 1731  kubectl get all -n 2048-game
+ 1732  kubectl delete 2048-ingress 
+ 1733  kubectl delete 2048-ingress  -n 2048-game
+ 1734  kubectl delete ingress 2048-ingress  -n 2048-game
+ 1735  kubectl apply -f https://raw.githubusercontent.com/kubernetes-sigs/aws-alb-ingress-controller/v1.1.4/docs/examples/2048/2048-ingress.yaml
+ 1736  wget https://raw.githubusercontent.com/kubernetes-sigs/aws-alb-ingress-controller/v1.1.4/docs/examples/2048/2048-ingress.yaml
+ 1737  ls
+ 1738  mv 2048-ingress.yaml.1 2048-ingress_test.yaml
+ 1739  nano 2048-ingress_test.yaml 
+ 1740  nano 2048-ingress.yaml 
+ 1741  cd ..
+ 1742  clear
+ 1743  nano ingress.yml 
+ 1744  cd albingress/
+ 1745  ls
+ 1746  cat 2048-ingress_test.yaml 
+ 1747  nano 2048-ingress_test.yaml 
+ 1748  kubectl delete ingress 2048-ingress  -n 2048-game
+ 1749  kubectl create -f 2048-ingress.yaml 
+ 1750  kubectl delete ingress 2048-ingress  -n 2048-game
+ 1751  kubectl create -f 2048-ingress_test.yaml.yaml 
+ 1752  kubectl create -f 2048-ingress_test.yaml
+ 1753  nano 2048-ingress_test.yaml 
+ 1754  kubectl create -f 2048-ingress_test.yaml
+ 1755  kubectl create -f 2048-ingress_test.yaml --validate=false
+ 1756  clear
+ 1757  kubectl get all -n kube-system
+ 1758  kubectl describe deployment.apps/alb-ingress-controller
+ 1759  kubectl describe deployment.apps/alb-ingress-controller -n kube-system
+ 1760  kubectl logs deployment.apps/alb-ingress-controller -n kube-system
+ 1761  curl -sS "https://raw.githubusercontent.com/kubernetes-sigs/aws-alb-ingress-controller/v1.1.4/docs/examples/alb-ingress-controller.yaml"      | sed "s/# - --cluster-name=devCluster/- --cluster-name=attractive-gopher/g"      | kubectl delete -f -
+ 1762  curl -sS "https://raw.githubusercontent.com/kubernetes-sigs/aws-alb-ingress-controller/v1.1.4/docs/examples/alb-ingress-controller.yaml"      | sed "s/# - --cluster-name=devCluster/- --cluster-name=EKS-cluster/g"      | kubectl apply -f -
+ 1763  kubectl get all -n kube-system
+ 1764  curl -sS "https://raw.githubusercontent.com/kubernetes-sigs/aws-alb-ingress-controller/v1.1.4/docs/examples/alb-ingress-controller.yaml"      | sed "s/# - --cluster-name=devCluster/- --cluster-name=attractive-gopher/g"      | kubectl delete -f -
+ 1765  wget https://raw.githubusercontent.com/kubernetes-sigs/aws-alb-ingress-controller/v1.1.4/docs/examples/alb-ingress-controller.yaml
+ 1766  ls
+ 1767  cat alb-ingress-controller.yaml | grep "namespace"
+ 1768  nano alb-ingress-controller.yaml 
+ 1769  kubectl create -f alb-ingress-controller.yaml 
+ 1770  clear
+ 1771  kubectl get all -n kube-system
+ 1772  kubectl describe replicaset.apps/alb-ingress-controller-5769fbb9df -n kube-system
+ 1773  aws iam create-policy     --policy-name ALBIngressControllerIAMPolicy     --policy-document https://raw.githubusercontent.com/kubernetes-sigs/aws-alb-ingress-controller/v1.1.4/docs/examples/iam-policy.json
+ 1774  curl -sS "https://raw.githubusercontent.com/kubernetes-sigs/aws-alb-ingress-controller/v1.1.4/docs/examples/alb-ingress-controller.yaml"      | sed "s/# - --cluster-name=devCluster/- --cluster-name=attractive-gopher/g"      | kubectl delete -f -
+ 1775  clear
+ 1776  kubectl delete inggress 2048-ingress -n 2048-game
+ 1777  kubectl delete ingress 2048-ingress -n 2048-game
+ 1778  kubectl get ns
+ 1779  kubectl get ingress -n 2048-game
+ 1780  kubectl get ingress
+ 1781  kubectl get all -n 048-game
+ 1782  kubectl get all -n 2048-game
+ 1783  cd ..
+ 1784  cd nlbingress
+ 1785  mkdir nlbingress
+ 1786  cd nlbingress/~
+ 1787  cd nlbingress/
+ 1788  clear
+ 1789  ls
+ 1790  kubectl apply -f https://raw.githubusercontent.com/kubernetes/ingress-nginx/controller-0.32.0/deploy/static/provider/aws/deploy.yaml
+ 1791  kubectl get all -n /ingress-nginx
+ 1792  kubectl get all -n ingress-nginx
+ 1793  kubectl describe pod/ingress-nginx-admission-patch-8p9fv  -n ingress-nginx
+ 1794  kubectl logs pod/ingress-nginx-admission-patch-8p9fv  -n ingress-nginx
+ 1795  kubectl delete -f https://raw.githubusercontent.com/kubernetes/ingress-nginx/controller-0.32.0/deploy/static/provider/aws/deploy.yaml
+ 1796  ls
+ 1797  wget "https://raw.githubusercontent.com/kubernetes/ingress-nginx/controller-0.32.0/deploy/static/provider/aws/deploy.yaml
+ 1798  wget https://raw.githubusercontent.com/kubernetes/ingress-nginx/controller-0.32.0/deploy/static/provider/aws/deploy.yaml
+ 1799  vi deploy.yaml 
+ 1800  nano deploy.yaml 
+ 1801  kubectl create -f deploy.yaml 
+ 1802  kubectl create -f deploy.yaml --validate=false
+ 1803  kubectl get all -n ingress-nginx
+ 1804  kubectl delete -f deploy.yaml 
+ 1805  clear
+ 1806  cd ..
+ 1807  ls
+ 1808  cat deploy.yaml 
+ 1809  clear
+ 1810  cd nlbingress/
+ 1811  rm -r *
+ 1812  ls
+ 1813  wget https://raw.githubusercontent.com/kubernetes/ingress-nginx/main/deploy/static/provider/aws/deploy.yaml
+ 1814  rm -rf deploy.yaml.1 
+ 1815  clear
+ 1816  sed  -i 's/externalTrafficPolicy: Local/externalTrafficPolicy: Cluster/g' deploy.yaml
+ 1817  kubectl create -f deploy.yaml
+ 1818  kubectl create deployment nginx-web --image=nginx --replicas=2
+ 1819  kubectl expose deployment nginx-web --name=nginx-web --type=NodePort --port=80 --protocol=TCP
+ 1820  kubectl get svc nginx-web
+ 1821  nano ingress.yml
+ 1822  kubectl edit nginx-web
+ 1823  kubectl edit svc nginx-web
+ 1824  kubectl create -f ingress.yml 
+ 1825  nano ingress.yml
+ 1826  kubectl create -f ingress.yml 
+ 1827  nano ingress.yml
+ 1828  kubectl create -f ingress.yml 
+ 1829  cd ..
+ 1830  ls
+ 1831  cat ingress.yml 
+ 1832  cd nlbingress/
+ 1833  nano ingress.yml 
+ 1834  kubectl create -f ingress.yml 
+ 1835  clear
+ 1836  nano ingress.yml 
+ 1837  kubectl delete -f ingress.yml 
+ 1838  nano ingress.yml 
+ 1839  kubectl create -f ingress.yml 
+ 1840  kubectl get ingress
+ 1841  kubectl get all -n ingress-nginx
+ 1842  kubectl describe pod/ingress-nginx-admission-create-dmk2x  -n ingress-nginx
+ 1843  kubectl get all -n ingress-nginx
+ 1844  kubectl logs pod/ingress-nginx-admission-create-dmk2x  -n ingress-nginx
+ 1845  clear
+ 1846  kubectl delete -f kubectl create -f deploy.yaml
+ 1847  kubectl delete -f deploy.yaml
+ 1848  kubectl get ns
+ 1849  clear
+ 1850  kubectl delete -f ingress.yml 
+ 1851  kubectl get all
+ 1852  kubectl create deployment nginx-web --image=nginx --replicas=2
+ 1853  kubectl delete deployment nginx-web --image=nginx --replicas=2
+ 1854  kubectl delete deployment nginx-web
+ 1855  kubectl delete svc ginx-web
+ 1856  kubectl delete svc nginx-web
+ 1857  clear
+ 1858  kubectl expose deployment nginx-web --name=nginx-web --type=LoadBalancer --port=80 --protocol=TCP
+ 1859  kubectl get svc nginx-web
+ 1860  clear
+ 1861  nano ingress.yml 
+ 1862  mv ingress.yml nt_ngnx_ingress.yml 
+ 1863  nano nt_ngnx_ingress.yml 
+ 1864  kubectl get svc 
+ 1865  kubectl create -f nt_ngnx_ingress.yml 
+ 1866  clear
+ 1867  kubectl get ingress
+ 1868  kubectl delete -f nt_ngnx_ingress.yml
+ 1869  nano nt_ngnx_ingress.yml 
+ 1870  kubectl create -f nt_ngnx_ingress.yml 
+ 1871  kubectl get ingress
+ 1872  aws iam create-policy     --policy-name ALBIngressControllerIAMPolicy     --policy-document https://raw.githubusercontent.com/kubernetes-sigs/aws-alb-ingress-controller/v1.1.4/docs/examples/iam-policy.json
+ 1873  cd ..
+ 1874  cd albingress/
+ 1875  ls
+ 1876  policydoc,json
+ 1877  nano policydoc.json
+ 1878  aws iam create-policy
+ 1879  aws iam create-policy --policy-name ALBIngressControllerIAMPolicy --policy-document policydoc.json 
+ 1880  eksctl
+ 1881  clear
+ 1882  curl --silent --location "https://github.com/weaveworks/eksctl/releases/latest/download/eksctl_$(uname -s)_amd64.tar.gz" | tar xz -C /tmp
+ 1883  sudo mv /tmp/eksctl /usr/local/bin
+ 1884  eksctl version
+ 1885  eksctl create iamserviceaccount        --cluster=attractive-gopher        --namespace=kube-system        --name=alb-ingress-controller        --attach-policy-arn= "arn:aws:iam::796272046094:policy/ALBIngressControllerIAMPolicy"        --override-existing-serviceaccounts        --approve
+ 1886  export $arn=arn:aws:iam::796272046094:policy/ALBIngressControllerIAMPolicy
+ 1887  export $arn="arn:aws:iam::796272046094:policy/ALBIngressControllerIAMPolicy"
+ 1888  export $arn = "arn:aws:iam::796272046094:policy/ALBIngressControllerIAMPolicy"
+ 1889  set $arn = "arn:aws:iam::796272046094:policy/ALBIngressControllerIAMPolicy"
+ 1890  echo $arn
+ 1891  echo arn
+ 1892  set $arn="arn:aws:iam::796272046094:policy/ALBIngressControllerIAMPolicy"
+ 1893  echo $arn
+ 1894  eksctl create iamserviceaccount        --cluster=EKS-cluster       --namespace=kube-system        --name=alb-ingress-controller        --attach-policy-arn= "arn:aws:iam::796272046094:policy/ALBIngressControllerIAMPolicy"        --override-existing-serviceaccounts        --approve
+ 1895  eksctl utils associate-iam-oidc-provider --cluster=attractive-gopher --approve
+ 1896  eksctl utils associate-iam-oidc-provider --cluster=EKS-cluster --approve
+ 1897  aws configure
+ 1898  aws sts 
+ 1899  aws sts help
+ 1900  aws sts get-caller-identity
+ 1901  aws s3 ls --region=us-east-1
+ 1902  aws s3 ls --region=eu-west-3
+ 1903  aws sts get-caller-identity --region=us-east-1
+ 1904  aws sts get-caller-identity --region=eu-west-3
+ 1905  clear
+ 1906  kubectl get ingress
+ 1907  cd ..
+ 1908  ls
+ 1909  cat ingress.yml
+ 1910  nano ingress_Final.yml 
+ 1911  kubectl get all
+ 1912  ls
+ 1913  clear
+ 1914  kubectl apply -f https://raw.githubusercontent.com/kubernetes/ingress-nginx/controller-v1.5.1/deploy/static/provider/aws/deploy.yaml
+ 1915  kubectl get ns
+ 1916* 
+ 1917  kubectl logs pod/ingress-nginx-admission-create-m6hsj -n ingress-nginx
+ 1918  kubectl logs pod/ingress-nginx-admission-patch-vxhw6    -n ingress-nginx
+ 1919  kubectl logs pod/ingress-nginx-controller-7d5fb757db-8vbsj -n ingress-nginx
+ 1920  clear
+ 1921  ls
+ 1922  cat ingress_Final.yml 
+ 1923  kubectl get all
+ 1924  kubectl edit service/nginx-web
+ 1925  kubectl get all
+ 1926  nano ingress_Final.yml 
+ 1927  kubectl get ingress
+ 1928  nano ingress_Final.yml 
+ 1929  ls
+ 1930  cat ingress.yml 
+ 1931  cd albingress/
+ 1932  ls
+ 1933  cat 2048-ingress.yaml 
+ 1934  cd ..
+ 1935  sudo su
+ 1936  kubectl get nodes
+ 1937  kubectl get all
+ 1938  history
+ 1939  kubectl get all
+ 1940  docker ps
+ 1941  docker exec -it 056b40823990
+ 1942  docker exec -it 056b40823990 /bin/bash
+ 1943  docker ps
+ 1944  docker rm 056b40823990
+ 1945  docker stop 056b40823990
+ 1946  docker rm 056b40823990
+ 1947  dcoker ps -a
+ 1948  docker ps -a
+ 1949  docker rm $(docker ps --filter=exited -q)
+ 1950  docker rm $(docker ps -q --filter=exited)
+ 1951  docker rm $(docker ps -q --filter==exited)
+ 1952  history | grep "docker rm"
+ 1953  docker images
+ 1954  docker rmi updatecert
+ 1955  docker rmi df57faf24214
+ 1956  clear
+ 1957  nano Dockerfile 
+ 1958  cd karthik/
+ 1959  ls
+ 1960  cd sourcecode/
+ 1961  ;s
+ 1962  ls
+ 1963  cd service/
+ 1964  ls
+ 1965  nano Dockerfile 
+ 1966  ls
+ 1967  cat Dockerfile 
+ 1968  cd ..
+ 1969  cd //
+ 1970  cd /home/ubuntu/karthik/
+ 1971  cd getone/
+ 1972  ls
+ 1973  cd Dockerfile 
+ 1974  ls
+ 1975  cd service/
+ 1976  ls
+ 1977  cat Dockerfile 
+ 1978  nano Dockerfile 
+ 1979  ls
+ 1980  cd aws-test
+ 1981  ls
+ 1982  cd ..
+ 1983  cp -rf aspnetapp.pfx aws-test
+ 1984  ls
+ 1985  ls aws-test
+ 1986  nano FinalSuccess/Dockerfile 
+ 1987  ls
+ 1988  nano Dockerfile 
+ 1989  docker build -t saveus:god .
+ 1990  docker images
+ 1991  docker run -it b8d9a7fb9929
+ 1992  aws ecr get-login-password --region eu-west-3 | docker login --username AWS --password-stdin 796272046094.dkr.ecr.eu-west-3.amazonaws.com
+ 1993  docker images
+ 1994  docker push saveus:god
+ 1995  docker tag saveus:god 796272046094.dkr.ecr.eu-west-3.amazonaws.com/getone-ecr-eks:latest
+ 1996  docker push 796272046094.dkr.ecr.eu-west-3.amazonaws.com/getone-ecr-eks:latest
+ 1997  docker images
+ 1998  docker tag ubuntu:20.0 796272046094.dkr.ecr.eu-west-3.amazonaws.com/getone-ecr-eks:latest
+ 1999  docker tag ubuntu:20.04 796272046094.dkr.ecr.eu-west-3.amazonaws.com/getone-ecr-eks:latest
+ 2000  docker images
+ 2001  docker push 796272046094.dkr.ecr.eu-west-3.amazonaws.com/getone-ecr-eks:latest
+ 2002  ls
+ 2003  cd final_files/
+ 2004  ls
+ 2005  cat depwtenv.yml 
+ 2006  ls
+ 2007  cat firstdep.yml 
+ 2008  ls
+ 2009  cat deploy.yaml 
+ 2010  ls
+ 2011  cat ecrscrpt.sh 
+ 2012  mv deploy.yaml fin_Ingrs_Cntrlr_deploy.yaml 
+ 2013  mv depwtenv.yml Fin_deployment.yml
+ 2014  mv ecrscrpt.sh fin_ecrscrpt.sh
+ 2015  mv ingress_Final.yml fin_ingress.yml
+ 2016  ls
+ 2017  ls -al
+ 2018  mv Fin_deployment.yml fin_deployment.yml 
+ 2019  ls -al
+ 2020  nano fin_deployment.yml 
+ 2021  kubectl get all
+ 2022  kubectl delete deployment.apps/node-hello-world-deployment
+ 2023  clear
+ 2024  kubectl get all
+ 2025  kubectl get ingress
+ 2026  kubectl delete ingress minimal-ingress
+ 2027  kubectl delete ingress test-minimal-ingress
+ 2028  kubectl get ingress
+ 2029  clear
+ 2030  kubectl create -f fin_deployment.yml 
+ 2031  kubectl delete svc health-check-service
+ 2032  kubectl create -f fin_deployment.yml 
+ 2033  kubectl delete -f fin_deployment.yml 
+ 2034  kubectl get all
+ 2035  kubectl create -f fin_deployment.yml 
+ 2036  clear
+ 2037  kubectl get all
+ 2038  kubectl descirbe pod/node-hello-world-deployment-55b86667cb-cmvm8
+ 2039  kubectl describe pod/node-hello-world-deployment-55b86667cb-cmvm8
+ 2040  kubectl get logs pod/node-hello-world-deployment-55b86667cb-cmvm8
+ 2041  kubectl delete -f fin_deployment.yml 
+ 2042  clear
+ 2043  ls
+ 2044  nano fin_ecrscrpt.sh 
+ 2045  ./fin_ecrscrpt.sh
+ 2046  sh fin_ecrscrpt.sh
+ 2047  kubectl create -f fin_deployment.yml 
+ 2048  kubectl get all
+ 2049  kubectl logs pod/node-hello-world-deployment-55b86667cb-k62d2
+ 2050  kubectl delete -f fin_deployment.yml 
+ 2051  docker images
+ 2052  nano fin_deployment.yml 
+ 2053  kubectl get all
+ 2054  kubectl create -f fin_deployment.yml 
+ 2055  clear
+ 2056  kubectl get all
+ 2057  kubectl get logs pod/node-hello-world-deployment-6f6b9646f8-hqw9s 
+ 2058  kubectl get logs pod node-hello-world-deployment-6f6b9646f8-hqw9s 
+ 2059  kubectl logs pod node-hello-world-deployment-6f6b9646f8-hqw9s 
+ 2060  kubectl get all
+ 2061  kubectl logs pod/node-hello-world-deployment-6f6b9646f8-hqw9s
+ 2062  history
+ 2063  history >> final_EKS_Seployment.txt

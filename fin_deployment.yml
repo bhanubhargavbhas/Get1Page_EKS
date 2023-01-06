@@ -1,0 +1,50 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: fin-health-check-service12
+#  namespace: health-check
+spec:
+  type: ClusterIP
+  ports:
+  - port: 8443
+    targetPort: 7247
+    
+  selector:
+    app: node-hello-world-app
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: fin-node-hello-world-deployment-fin
+ # namespace: health-check
+  labels:
+    app: node-hello-world-app
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: node-hello-world-app
+  template:
+    metadata:
+      labels:
+        app: node-hello-world-app
+    spec:
+      containers:
+      - name: fin-node-hello-world-app-container-test
+        image: 796272046094.dkr.ecr.eu-west-3.amazonaws.com/getone-ecr-eks:v1
+        imagePullPolicy: Always
+        ports:
+          - name: web
+            containerPort: 7247
+        #  env:
+       # - name: ASPNETCORE_URLS
+      #    value:  "https://+;http://+"
+     #   - name: ASPNETCORE_HTTPS_PORT
+    #      value: "8032"
+   #     - name: ASPNETCORE_Kestrel__Certificates__Default__Password
+  #        value: "g3t0u3@123"  
+ #       - name: ASPNETCORE_Kestrel__Certificates__Default__Path
+#          value: "${HOME}/.aspnet/https/aspnetapp.pfx"
+
+      imagePullSecrets:
+          - name: eu-west-3-ecr-registry 
